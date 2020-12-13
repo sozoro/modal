@@ -1,0 +1,7 @@
+/dist*
+*.swp
+*.hi
+*.o
+gcroots
+/result
+*.agdai
